@@ -1,7 +1,6 @@
 lockfileVersion: 5.4
 
 specifiers:
-  busboy: ^1.6.0
   express: ^4.18.2
   express-fileupload: ^1.4.0
   morgan: ^1.10.0
@@ -9,7 +8,6 @@ specifiers:
   uuid: ^9.0.0
 
 dependencies:
-  busboy: 1.6.0
   express: 4.18.2
   express-fileupload: 1.4.0
   uuid: 9.0.0
