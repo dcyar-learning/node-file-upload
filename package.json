@@ -1,0 +1,27 @@
+{
+  "name": "file-upload",
+  "version": "1.0.0",
+  "description": "File upload example",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "dev": "nodemon app"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "file upload"
+  ],
+  "author": "Jhon Achata",
+  "license": "MIT",
+  "dependencies": {
+    "busboy": "^1.6.0",
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.0",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.20"
+  }
+}
